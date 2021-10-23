@@ -1,0 +1,6 @@
+.video {
+  height: 200px;
+  justify-content: flex-start;
+  padding: 0 20px;
+  align-items: center;
+}
